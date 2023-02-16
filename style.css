@@ -1,0 +1,51 @@
+.sec1{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    height: 1000px;
+    position: relative;
+}
+
+.sec1 h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sec2{
+    background-image: url("https://st2.depositphotos.com/4211709/9617/i/600/depositphotos_96171396-stock-photo-tree-with-birds-at-sunset.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    /* display: flex; */
+    justify-content: center;
+    height: 1000px;
+    color: whitesmoke;
+}
+.sec2 p{
+    background-color: grey;
+}
+
+.sec3{
+    background-image: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+    height: 1000px;
+    color: aliceblue;
+}
+.sec4{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    justify-content: center;
+    height: 1000px;
+    color: turquoise;
+}
